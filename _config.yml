@@ -1,13 +1,13 @@
 # Site setings
-name: 'Saichandu Behara'
-description: 'DevOps & Cloud '
-title: 'Everything is Automation with DevOps'
+name: 'Satya Muralidhar'
+description: 'DevOps , ML , Deeplearning & NLP'
+title: 'Data Science researcher'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'saichandu.jpg'
-  greetings: "Hello guys ! I'm Saichandu Behara. DevOps and Cloud Developer"
+  image: 'satya.jpg'
+  greetings: "Hi there! My name is satyamuralidhar. Intrested in DataScience.Located in Hyderbad. Welcome to my Blog."
 favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://bvnsaichandu.github.com/
@@ -17,20 +17,20 @@ mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab160
 ga_analytics:
 
 # Contact form setings
-email: bvnsaichandu@gmail.com
+email: muralidhar.peddireddi@gmail.com
 #contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
 #twitter: 'anujdutt92'
 # facebook: 'username'
-github: 'saichandubehara'
+github: 'satyamuralidhar'
 # codepen: 'username'
 # dribbble: 'username'
-#medium: '@anuj.dutt9'
+medium: '@muralidhar.peddireddi'
 # instagram: 'username'
 # pinterest: 'username'
-linkedin: 'sai-chandu-behara-18478315a'
+linkedin: 'satya-muralidhar-peddireddi-9b312a176'
 # producthunt: '@username'
 # quora: 'username'
 
